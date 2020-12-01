@@ -1,5 +1,10 @@
 ## Layer 3: Verifiable Credentials (VC)
 
+### Trinsic
+- trinsic.id / [docs](https://docs.trinsic.id/docs/tutorial)
+- trinsic.id / [studio](https://studio.trinsic.id/)
+- github.com/hyperledger / [0036-issue-credential](https://github.com/hyperledger/aries-rfcs/tree/master/features/0036-issue-credential)
+
 ### VC Core
 
 - w3.org / [vc-data-model](https://www.w3.org/TR/vc-data-model/)
