@@ -3,7 +3,10 @@
 ### Trinsic
 - trinsic.id / [docs](https://docs.trinsic.id/docs/tutorial)
 - trinsic.id / [studio](https://studio.trinsic.id/)
+
+### Hyperledger Aries
 - github.com/hyperledger / [0036-issue-credential](https://github.com/hyperledger/aries-rfcs/tree/master/features/0036-issue-credential)
+- github.com/hyperledger / [0037-present-proof](https://github.com/hyperledger/aries-rfcs/blob/master/features/0037-present-proof/README.md)
 
 ### VC Core
 
