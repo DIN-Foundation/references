@@ -20,3 +20,5 @@ Layer 4: [Application Layer (Use Cases) >](./layer-4-application-layer.md)
 [Github >](https://github.com/DIN-Foundation/)
 
 [Slack >](https://join.slack.com/t/din-foundation/shared_invite/zt-j6j3dgh0-z8jz1Fc3xLzUGXpnsuWmLg)
+
+[Drive >](https://docs.google.com/spreadsheets/d/1ro5xy1a2rYul8xufNf85p15uQgbZX_vUKgz1gGIOvgQ/edit#gid=444755143)
